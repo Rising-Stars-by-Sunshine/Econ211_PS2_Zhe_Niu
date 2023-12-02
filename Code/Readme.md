@@ -7,6 +7,7 @@ This document outlines the process used in `data_query.ipynb` and `data_analysis
 The dataset consists of credit card transactions from European cardholders in September 2013. It includes both normal and fraudulent transactions. The features are mostly numerical, derived from PCA, except for the 'Time' and 'Amount' features.
 
 ## Pseudo-Code for Data Query Process
+![Code](Code.png)
 
 ```latex
 \documentclass{article}
@@ -48,3 +49,5 @@ The dataset consists of credit card transactions from European cardholders in Se
 \end{document}
 
 '''
+# Flowchart for Data Query and Data Processing Process
+![Data processing](Data_Processing.png)
