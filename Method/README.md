@@ -50,10 +50,48 @@ The intellectual significance of this study lies in its potential to bridge the 
 
 ![Method](Method.png)
 
-## References: 
-- Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado,	A., ...& Herrera, F. (2020). Explainable Artificial Intelligence (XAI): Concepts,	taxonomies, opportunities and challenges toward responsible AI. Information	fusion, 58, 82-115.
-- Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., & Pedreschi, D.	(2018). A survey of methods for explaining black box models. ACM computing	surveys (CSUR), 51(5), 1-42.
-- Walter Reade, Ashley Chow. (2023). Binary Classification with a Tabular Credit	Card Fraud Dataset. Kaggle. https://kaggle.com/competitions/playground-series-s3e4
-- Kroeger, N., Ley, D., Krishna, S., Agarwal, C., & Lakkaraju, H. (2023). Are Large	Language Models Post Hoc Explainers?. arXiv preprint arXiv:2310.05797.
-- Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., & Neubig, G. (2023). Pre-train,	prompt, and predict: A systematic survey of prompting methods in natural	language processing. ACM Computing Surveys, 55(9), 1-35.
+## References
 
+```bibtex
+@article{Arrieta2020,
+  title={Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI},
+  author={Arrieta, Alejandro Barredo and D{\'i}az-Rodr{\'i}guez, Natalia and Del Ser, Javier and Bennetot, Adrien and Tabik, Siham and Barbado, Alberto and others},
+  journal={Information Fusion},
+  volume={58},
+  pages={82--115},
+  year={2020}
+}
+
+@article{Guidotti2018,
+  title={A survey of methods for explaining black box models},
+  author={Guidotti, Riccardo and Monreale, Anna and Ruggieri, Salvatore and Turini, Franco and Giannotti, Fosca and Pedreschi, Dino},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={51},
+  number={5},
+  pages={1--42},
+  year={2018}
+}
+
+@misc{WalterReade2023,
+  author = {Walter Reade and Ashley Chow},
+  title = {Binary Classification with a Tabular Credit Card Fraud Dataset},
+  year = {2023},
+  howpublished = {\url{https://kaggle.com/competitions/playground-series-s3e4}}
+}
+
+@article{Kroeger2023,
+  title={Are Large Language Models Post Hoc Explainers?},
+  author={Kroeger, Nicholas and Ley, Dan and Krishna, Satyapriya and Agarwal, Chirag and Lakkaraju, Himabindu},
+  journal={arXiv preprint arXiv:2310.05797},
+  year={2023}
+}
+
+@article{Liu2023,
+  title={Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing},
+  author={Liu, Pengfei and Yuan, Weizhe and Fu, Jinlan and Jiang, Zhengbao and Hayashi, Hiroaki and Neubig, Graham},
+  journal={ACM Computing Surveys},
+  volume={55},
+  number={9},
+  pages={1--35},
+  year={2023}
+}
