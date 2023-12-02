@@ -24,6 +24,16 @@ The data features are primarily numerical, derived from a Principal Component An
 | Amount   | Transaction amount. This feature can be used for example-dependent cost-sensitive learning. | Numerical | Continuous |
 | Class    | Indicates fraud (1) or non-fraudulent (0) transactions. | Categorical | 0 (Non-Fraud), 1 (Fraud) |
 
+# Sample Data
+
+| id | Time |    V1   | V2     | V3     | V4     | ... | V28    | Amount | Class |
+|----|------|---------|--------|--------|--------|-----|--------|--------|-------|
+| 0  | 0.0  |  2.074  | -0.129 | -1.137 | 0.413  | ... | -0.060 | 1.98   | 0     |
+| 1  | 0.0  |  -1.808 | 1.795  | -2.575 | -1.944 | ... | 0.848  | 8.00   | 1     |
+| 2  | 0.0  |  0.092  | 1.005  | -0.223 | -0.435 | ... | 0.087  | 2.69   | 0     |
+| 3  | 0.0  |  1.980  | -0.185 | -1.064 | 0.120  | ... | -0.074 | 1.00   | 0     |
+| 4  | 0.0  |  1.026  | -0.172 | 1.204  | 1.244  | ... | 0.021  | 1.00   | 0     |
+
 # Flowchart of Dataset Structure
 ![Dataset Structure](Dataset_Structure.png)
 
