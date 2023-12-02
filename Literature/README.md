@@ -24,6 +24,32 @@ My research builds upon these comparative analyses by specifically contrasting t
 
 ## References
 
-- Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., & Pedreschi, D. (2018). A Survey of Methods for Explaining Black Box Models. ACM Computing Surveys (CSUR), 51(5), 1-42.
-- Kroeger, N., Ley, D., Krishna, S., Agarwal, C., & Lakkaraju, H. (2023). Exploring the Use of Large Language Models in Machine Learning Interpretability. Journal of Machine Learning Research, 24(1), 567-588.
-- Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado, A., ... & Herrera, F. (2020). Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI. Information	Fusion, 58, 82-115.
+```bibtex
+@article{Guidotti2018,
+  title={A Survey of Methods for Explaining Black Box Models},
+  author={Guidotti, Riccardo and Monreale, Anna and Ruggieri, Salvatore and Turini, Franco and Giannotti, Fosca and Pedreschi, Dino},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={51},
+  number={5},
+  pages={1--42},
+  year={2018}
+}
+
+@article{Kroeger2023,
+  title={Exploring the Use of Large Language Models in Machine Learning Interpretability},
+  author={Kroeger, Nicholas and Ley, Dan and Krishna, Satyapriya and Agarwal, Chirag and Lakkaraju, Himabindu},
+  journal={Journal of Machine Learning Research},
+  volume={24},
+  number={1},
+  pages={567--588},
+  year={2023}
+}
+
+@article{Arrieta2020,
+  title={Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI},
+  author={Arrieta, Alejandro Barredo and D{\'i}az-Rodr{\'i}guez, Natalia and Del Ser, Javier and Bennetot, Adrien and Tabik, Siham and Barbado, Alberto and others},
+  journal={Information Fusion},
+  volume={58},
+  pages={82--115},
+  year={2020}
+}
