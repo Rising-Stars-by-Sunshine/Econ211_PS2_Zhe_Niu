@@ -1,5 +1,7 @@
 ## Part 1: Literature
 
+In the context of my research, three critical literature streams are explored to provide a comprehensive understanding of the existing and emerging paradigms in Explainable AI (XAI), particularly as they relate to credit card fraud detection and the application of Large Language Models (LLMs).  Each stream presents a unique perspective on the field, laying the groundwork for my research and highlighting areas where it contributes new insights.
+
 ### Stream 1: Explainable AI in Credit Card Fraud Detection
 
 The burgeoning field of explainable AI (XAI) is critical in sensitive domains like credit card fraud detection. Prior studies, such as those by Guidotti et al. (2018), primarily focus on traditional post hoc explanation methods like LIME and SHAP. These studies elucidate how these methods can uncover influential features in ML model predictions, enhancing transparency and trust in fraud detection systems. 
