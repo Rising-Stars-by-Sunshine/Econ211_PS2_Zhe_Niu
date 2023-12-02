@@ -6,9 +6,9 @@ This repository continues the research project on Explainable AI (XAI) in financ
 ## Table of Contents
 | Section | Description |
 | ------- | ----------- |
-| [Literature](#literature) | Updated overview of XAI and recent research on LLMs in financial services. |
-| [Data](#data) | Enhanced dataset section with additional data processing details, data dictionary, and dataset structure flowchart. |
-| [Code](#code) | Updated scripts for data preprocessing, exploration, visualization, and processing. |
+| [Literature](#literature/) | Updated overview of XAI and recent research on LLMs in financial services. |
+| [Data](#data/) | Enhanced dataset section with additional data processing details, data dictionary, and dataset structure flowchart. |
+| [Code](#code/) | Updated scripts for data preprocessing, exploration, visualization, and processing. |
 
 ## Literature
 The literature section offers an updated overview of XAI and recent research on the application of LLMs in financial services. It includes a comprehensive review of methodologies, applications, challenges, and advancements in the field.
