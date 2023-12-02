@@ -1,5 +1,8 @@
 # Part 2: Method
 
+In Part 2 of my research, I delve into the methodology of how we can utilize Large Language Models (LLMs) for explainable AI (XAI) in the context of credit card fraud detection. This segment addresses the critical steps and components involved in the research process, from the conceptual background and motivation to the practical application scenarios, data processing, model training, explanation generation, and evaluation methods. The focus here is on outlining the specific approaches and techniques that will be employed to assess the effectiveness of LLMs in providing interpretable and meaningful explanations for machine learning models in the financial sector.
+
+
 ## Background/Motivation:
 The integration of machine learning (ML) models in financial services, particularly in credit risk assessment, is transforming the banking sector. However, the inherent opacity of these models, often termed as "black boxes," poses significant challenges in terms of interpretability and transparency, crucial in financial decision-making (Guidotti et al., 2018). The demand for explainable AI (XAI) has surged in response to regulatory and societal pressures for clearer decision-making processes in ML models (Arrieta et al., 2020). The emergence of Large Language Models (LLMs) like GPT-3.5 and GPT-4, with their advanced in-context learning (ICL) capabilities, offers a promising avenue for generating transparent post hoc explanations (Liu et al., 2023). This research explores LLMs' potential in explicating the decision-making process in loan borrower classification, a critical aspect of banking operations.
 
