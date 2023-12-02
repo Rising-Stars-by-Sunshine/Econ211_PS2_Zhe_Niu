@@ -38,5 +38,11 @@ The data features are primarily numerical, derived from a Principal Component An
 ![Dataset Structure](Dataset_Structure.png)
 
 ## Reference
-- Walter Reade, Ashley Chow. (2023). Binary Classification with a Tabular Credit Card Fraud Dataset. Kaggle. https://kaggle.com/competitions/playground-series-s3e4
 
+```bibtex
+@misc{WalterReade2023,
+  author = {Walter Reade and Ashley Chow},
+  title = {Binary Classification with a Tabular Credit Card Fraud Dataset},
+  year = {2023},
+  howpublished = {\url{https://kaggle.com/competitions/playground-series-s3e4}}
+}
