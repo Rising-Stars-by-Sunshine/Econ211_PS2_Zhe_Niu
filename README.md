@@ -4,10 +4,10 @@
 This repository hosts a research project focused on Explainable AI (XAI) in financial services, particularly exploring the use of Large Language Models (LLMs) for post hoc explanations in machine learning predictions. The project includes a comprehensive literature review, detailed data analysis, and various coding scripts.
 
 ## Table of Contents
-- [Code](#code)
-- [Data](#data)
-- [Literature](#literature)
-- [Method](#method)
+- [Code](./Code/)
+- [Data](./Data/)
+- [Literature](./Literature/)
+- [Method](./Method/)
 
 ## [Code](./Code/)
 In the Code folder, you will find all the scripts used for data preprocessing, exploration, visualization, and analysis. This includes scripts for balancing the dataset, feature scaling, and handling missing values.
